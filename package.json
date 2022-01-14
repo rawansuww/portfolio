@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "personalPortfolio",
-  "homepage": "http://rawansuww.github.io/portfolio",
+  "homepage": "http://rawansuww.github.io/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
